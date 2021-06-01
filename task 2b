@@ -1,6 +1,6 @@
-class Main {
+class Hamed {
   public static void main(String[] args) {
- char operator;
+ char Hoperator;
     Double number1, number2, result;
 
     // create an object of Scanner class
